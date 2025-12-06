@@ -62,6 +62,7 @@ Thumbs.db
 # Arquivos de configuração local
 .env
 config.local.py
+PlaywrightPilotMonitor.py
 
 # Arquivos de teste
 test_*.sh
