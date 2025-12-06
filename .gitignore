@@ -1,0 +1,69 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Logs e outputs
+outputs/
+*.log
+*.html
+*.json
+*.png
+*.jpg
+*.jpeg
+cookies.txt
+output_*.html
+output_*.json
+
+# Playwright
+.playwright/
+
+# Arquivos temporários
+*.tmp
+*.bak
+*.cache
+
+# Arquivos de sistema
+Thumbs.db
+.DS_Store
+
+# Arquivos de configuração local
+.env
+config.local.py
+
+# Arquivos de teste
+test_*.sh
+test_*.py
+
